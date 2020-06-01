@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493221699373",
+    "firebase_url": "https://figuresonline-907b1.firebaseio.com",
+    "project_id": "figuresonline-907b1",
+    "storage_bucket": "figuresonline-907b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493221699373:android:458f4d8b5c4d5b4a9c3da4",
+        "android_client_info": {
+          "package_name": "com.online.figures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493221699373-0op75n88ng3innsodkugtt40hg3v6nqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqs0BhKDAHp08zk0V_uVq7U3zeNmZpNLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493221699373-0op75n88ng3innsodkugtt40hg3v6nqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

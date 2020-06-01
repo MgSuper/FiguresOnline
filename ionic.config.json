@@ -1,5 +1,7 @@
 {
   "name": "figuresOnline",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
